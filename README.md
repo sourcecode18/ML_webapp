@@ -7,5 +7,5 @@ Machine Learning image classification webapp.
 3. Web camera<br>
 <br>
 
-##How to use <br>
+## How to use <br>
 Open index.html in chrome browser and test the classifier is perfoming as expected <br>
